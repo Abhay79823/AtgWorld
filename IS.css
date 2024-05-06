@@ -1,0 +1,12 @@
+body{
+    font-family:IBM Plex Sans;
+}
+
+#hero{
+    background:url(IMAGES/r.jpg);
+}
+#myDropdown{
+    display:none;
+}
+
+
